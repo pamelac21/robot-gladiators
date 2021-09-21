@@ -1,0 +1,1 @@
+window.alert("(^_^)/ !JavaScript is running!")
